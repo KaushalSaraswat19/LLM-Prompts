@@ -1,6 +1,6 @@
 # LLM Prompts Repository
 
-This repository contains a collection of prompts used with Large Language Models (LLMs) for various tasks. The prompts are organized into three main categories: Coding, Verbal, and Non-verbal.
+This repository contains a collection of prompts used with Large Language Models (LLMs) for various tasks. The prompts are organized into different categories as mentioned below:
 
 ## Repository Structure
 
