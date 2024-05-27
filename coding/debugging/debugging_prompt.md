@@ -16,7 +16,7 @@ def is_prime(num):
     return True
 ```
 
-#### Test cases (optional)
+#### Test cases (optional for more accuracy)
 - print(is_prime(1))  # Expected output: False
 - print(is_prime(2))  # Expected output: True
 - print(is_prime(4))  # Expected output: False
